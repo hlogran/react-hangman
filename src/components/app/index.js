@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import "./App.css";
-import Hangman from "./Hangman";
+import "./styles.css";
+import Hangman from "../hangman";
 
 class App extends Component {
   render() {
